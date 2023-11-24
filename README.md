@@ -13,9 +13,9 @@ R wrapper for the Python module ‘sqlparse’ (<https://github.com/andialbrecht
 # Install from CRAN (recommended)
 install.packages("sqlparseR")
 
-# Or the development version from GitLab:
+# Or the development version from GitHub:
 # install.packages("devtools")
-devtools::install_gitlab("AgroSimi/sqlparser")
+devtools::install_github("agroscope-ch/sqlparser")
 ```
 ## Maintainer contact 
 
